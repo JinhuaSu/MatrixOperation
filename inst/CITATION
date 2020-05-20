@@ -1,0 +1,8 @@
+citeHeader("To cite MatrixOperation package in publication, use:")
+
+citeEntry(
+  entry = "Article",
+  author = personList(as.person("Jinhua Su")),
+  title = "RUC test package",
+  journal = "RUC test journal"
+)
