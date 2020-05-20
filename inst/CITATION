@@ -1,4 +1,4 @@
-citeHeader("To cite MatrixOperation package in publication, use:")
+citHeader("To cite MatrixOperation package in publication, use:")
 
 citeEntry(
   entry = "Article",
